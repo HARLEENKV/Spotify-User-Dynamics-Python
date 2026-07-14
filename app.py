@@ -50,7 +50,7 @@ unsafe_allow_html=True
 
 
 st.title("SPOTIFY USER DYNAMICS🎶")
-st.subheader("- A DATA SCIENCE PROJECT BY HARLEEN KAUR VIRDI.")
+st.subheader("- A DATA SCIENCE PROJECT BY HARLEEN.")
 st.write("Navigate through the sidebar to explore different aspects of Spotify User Dynamics and Behavior.")
 st.image("zzz.png")
 
