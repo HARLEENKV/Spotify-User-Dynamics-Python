@@ -1,7 +1,6 @@
 # 🎵 Spotify User Dynamics Project
 
-## ✨ View Webapp
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://spotify-user-dynamics-python-cjwhrkuhlahhtqda4jdoag.streamlit.app)
+## ✨ View Webapp [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://spotify-user-dynamics-python-cjwhrkuhlahhtqda4jdoag.streamlit.app)
 
 ## 📌 Overview
 This project analyzes **Spotify user behavior and dynamics** to uncover insights about listening patterns, subscription types, and churn tendencies. By leveraging **Python, data science libraries, and interactive dashboards**, the study aims to provide actionable strategies for improving user engagement and retention.
