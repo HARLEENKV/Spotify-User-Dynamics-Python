@@ -49,7 +49,7 @@ unsafe_allow_html=True
 )
  
 
-st.header("STEP-8  SUMMARY AND RETENTION KEYS📋")
+st.header("STEP-8  SUMMARY AND RETENTION KEYS✨")
 st.info("⭐ Premium & Student tiers drive engagement, but Premium churn is a revenue risk.")
 st.info("⭐ Free tier users are stable but highly variable in behavior.")
 st.info("⭐ Skip rate and ads exposure are the strongest churn predictors.")
