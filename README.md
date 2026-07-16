@@ -1,5 +1,6 @@
 # 🎵 Spotify User Dynamics Project
 
+## ✨ View Webapp
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://spotify-user-dynamics-python-cjwhrkuhlahhtqda4jdoag.streamlit.app)
 
 ## 📌 Overview
