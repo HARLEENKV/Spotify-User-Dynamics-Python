@@ -42,7 +42,7 @@ This project analyzes **Spotify user behavior and dynamics** to uncover insights
 
 ---
 
-## 📖 Report
+## 📖 Report & PPT
 A detailed academic-style report and presentation is included in the reports folder, covering:
 - Introduction & Objectives
 - Tools & Technology
