@@ -88,7 +88,7 @@ st.divider()
 st.header("STEP-10 CONCLUSION✅")
 st.markdown(
     """
-This journey into **Spotify User Dynamics** shows that every listener’s story is unique — some thrive on Premium freedom, others stick with the Free Plan despite the ads, and many find comfort in offline playlists.
+This journey into **SPOTIFY USER DYNAMICS** shows that every listener’s story is unique — some thrive on Premium freedom, others stick with the Free Plan despite the ads, and many find comfort in offline playlists.
 **While churn is shaped by skips and ads, retention grows from genuine engagement and connection.**
 In the end, it’s not just about numbers, but about understanding people’s listening habits and finding ways to keep the music playing happily in their lives.
 """
