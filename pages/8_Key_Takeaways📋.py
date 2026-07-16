@@ -48,7 +48,7 @@ unsafe_allow_html=True
 )
 
 
-st.header("STEP-7  KEY TAKEAWAYS✨")
+st.header("STEP-7 KEY TAKEAWAYS📋")
 st.markdown("A consolidation of analytical findings and insights from the Spotify User Dynamics Study.")
 
 
