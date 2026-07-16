@@ -55,7 +55,7 @@ if 'df' not in st.session_state:
 df = st.session_state['df']
 
 
-st.header("📈CHURN ANALYSIS")
+st.title("📈CHURN ANALYSIS")
 
 churned_users = df[df["is_churned"] == 1]
 with st.expander("View raw data of churned users"):
