@@ -47,6 +47,16 @@ div[data-testid="stExpander"][aria-expanded="true"] {
 unsafe_allow_html=True
 )
 
+st.markdown(
+    """
+    <style>
+    hr {
+        border-top: 2px solid #1DB954;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
 
 st.header("STEP-1 IMPORTING LIBRARIES👩🏻‍💻")
 with st.expander("Click to view the libraries used in this project"):
