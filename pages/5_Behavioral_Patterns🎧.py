@@ -52,7 +52,7 @@ if 'df' not in st.session_state:
     st.session_state['df'] = pd.read_csv("Spotify_user_dataset.csv")
 df = st.session_state['df']
 
-st.header("📌3. BEHAVIORAL PATTERNS")
+st.header("🎧BEHAVIORAL PATTERNS")
 st.divider()
 
 st.subheader("LISTENING TIME VS AGE")
