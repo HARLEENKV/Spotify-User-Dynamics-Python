@@ -52,7 +52,7 @@ if 'df' not in st.session_state:
     st.session_state['df'] = pd.read_csv("Spotify_user_dataset.csv")
 df = st.session_state['df']
 
-st.header("📊CORRELATION ANALYSIS")
+st.title("📊CORRELATION ANALYSIS")
 
 
 if 'df' in locals() or 'df'in globals():
