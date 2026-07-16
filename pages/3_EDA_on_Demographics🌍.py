@@ -53,7 +53,7 @@ if 'df' not in st.session_state:
 df = st.session_state['df']
 
 
-st.header("📌1. DEMOGRAPHICS ANALYSIS")
+st.header("🌍DEMOGRAPHICS ANALYSIS")
 st.divider()
 
 col1, col2 = st.columns(2)
